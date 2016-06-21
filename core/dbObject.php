@@ -4,11 +4,13 @@
  *
  * @category  Database Access
  * @package   MysqliDb
- * @author    Alexander V. Butenko <a.butenka@gmail.com>
- * @copyright Copyright (c) 2015
- * @license   http://opensource.org/licenses/gpl-3.0.html GNU Public License
- * @link      http://github.com/joshcam/PHP-MySQLi-Database-Class 
- * @version   2.6-master
+ * @category  Database Access
+ * @package   MysqliDb
+ * @author    Litto chacko <littochackomp@gmail.com>
+ * @copyright Copyright (c) 2010-2016
+ * @link      https://github.com/litto/PHP-MYSQLI-Framework/ 
+ * @version   2.0-master
+ */
  *
  * @method int count ()
  * @method dbObject ArrayBuilder()
