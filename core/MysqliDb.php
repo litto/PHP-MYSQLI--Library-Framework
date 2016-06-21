@@ -4,13 +4,10 @@
  *
  * @category  Database Access
  * @package   MysqliDb
- * @author    Jeffery Way <jeffrey@jeffrey-way.com>
- * @author    Josh Campbell <jcampbell@ajillion.com>
- * @author    Alexander V. Butenko <a.butenka@gmail.com>
+ * @author    Litto chacko <littochackomp@gmail.com>
  * @copyright Copyright (c) 2010-2016
- * @license   http://opensource.org/licenses/gpl-3.0.html GNU Public License
- * @link      http://github.com/joshcam/PHP-MySQLi-Database-Class 
- * @version   2.7-master
+ * @link      https://github.com/litto/PHP-MYSQLI-Framework/ 
+ * @version   2.0-master
  */
 
 class MysqliDb
