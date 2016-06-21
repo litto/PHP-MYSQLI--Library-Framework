@@ -1,9 +1,11 @@
 <?php
 /*
- * Date:8-16-2012
- * Login Form , entry to the application
- * Auhthor : Litto chacko
- * Email:littochackomp@gmail.com
+ * @category  Database Access
+ * @package   MysqliDb
+ * @author    Litto chacko <littochackomp@gmail.com>
+ * @copyright Copyright (c) 2010-2016
+ * @link      https://github.com/litto/PHP-MYSQLI-Framework/ 
+ * @version   2.0-master
 */
     class Uploader
     {
