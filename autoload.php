@@ -1,5 +1,12 @@
 <?php
-	date_default_timezone_set("Asia/Calcutta");
+*
+ * @category  Database Access
+ * @package   MysqliDb
+ * @author    Litto chacko <littochackomp@gmail.com>
+ * @copyright Copyright (c) 2010-2016
+ * @link      https://github.com/litto/PHP-MYSQLI-Framework/ 
+ * @version   2.0-master
+ */
 	define("CONST_BASEDIR",dirname(__FILE__));
 	define('CONST_LIBRARY_FOLDER',CONST_BASEDIR.'/libs');
 	$_SESSION['CONST_BASEDIR']=CONST_BASEDIR;
